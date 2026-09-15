@@ -1,0 +1,36 @@
+{
+    "version": 1,
+    "name": "BasketCases",
+    "maps": [
+        {
+            "name": "Default",
+            "id": "11bf36aa-7efe-4be5-bd72-93288d2ad00a",
+            "actions": [
+                {
+                    "name": "MousePos",
+                    "type": "Value",
+                    "id": "e79030e2-27f8-4f11-b7ee-8cdd679375cb",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true,
+                    "priority": 0
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9e2bf178-5b58-4be2-9b4c-902bd8d6acad",
+                    "path": "<Mouse>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MousePos",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
